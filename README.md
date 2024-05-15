@@ -1,12 +1,14 @@
 # WuWa-Calculator
 
 Wuthering Waves Damage Calculator
+
     Examples
         https://gidmgcalculator.web.app/
         https://genshin.aspirine.su/
             Possibly the addition of an optimizer (similar to https://frzyc.github.io/genshin-optimizer/)
             
 Steps(?)
+
     Planning basic functions (calculator, inventory, resonators/characters [stats, scalings, etc…], Echoes [set bonuses, valid stats, sub/main interaction], weapons [passives, stats], Enemy stats, outside buffs, team buffs)
     Website Mockup
     Actual development/deployment
@@ -15,6 +17,7 @@ Steps(?)
         Revision
         
 Resources (game)
+
     https://wutheringwaves.fandom.com/wiki/Wuthering_Waves_Wiki (genshin wiki   has the damage formula, so I assume wuwa will too)
     https://wutheringlab.com/ (has detailed information regarding stats, scalings, etc…)
     * Will probably be doing some actual testing in-game to check if damage values are correct, though most of how this will be checked will be using values after the target’s defense, buffs, debuffs, and resistances have been factored in. I’ll probably also be doing co-op a lot so I can see if there’s any changes to the base values (which genshin does) in vs out of co-op.
@@ -37,6 +40,7 @@ Timeline (Starting May 23, 2024)
             Figuring out how to factor in team-based buffs and debuffs, limited only to what those selected characters (and their gear) can provide
             
 Other Considerations
+
     Constellation buffs 
         These are buffs gained by pulling dupes of characters/items
     Damage Optimizer 
