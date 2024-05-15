@@ -20,6 +20,7 @@ Resources (game)
     * Will probably be doing some actual testing in-game to check if damage values are correct, though most of how this will be checked will be using values after the target’s defense, buffs, debuffs, and resistances have been factored in. I’ll probably also be doing co-op a lot so I can see if there’s any changes to the base values (which genshin does) in vs out of co-op.
     
 Timeline (Starting May 23, 2024)
+
     Week 1 (5/23-5/26):
         Get familiar with the mechanics and consider mechanics that weren’t previously considered
     Week 2 (5/27-6/2)
